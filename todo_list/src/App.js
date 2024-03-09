@@ -118,3 +118,11 @@ return(
 );
 };
 export default App;
+
+
+/*
+
+  git config --global user.email "divadotrebla@gmail.com"
+  git config --global user.name "DALA"
+
+*/
